@@ -74,7 +74,7 @@ Vous avez à présent tous les éléments en main pour mettre en place l’API. 
 
 **- ÉTAPE 1.1 :** Créez un serveur Express simple
 
-**- ÉTAPE 1.2 :** I=Créez une API RESTful
+**- ÉTAPE 1.2 :** Créez une API RESTful
 
 **- ÉTAPE 1.3 :** Mettez en place un système d'authentification sur votre application
 
