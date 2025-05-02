@@ -2,7 +2,7 @@
 
 Formation Openclassrooms "Développeur Web"
 
-Projet suivi : Développez le backend d'un site de notation de livres"
+Projet suivi : "Développez le backend d'un site de notation de livres"
 
 
 
